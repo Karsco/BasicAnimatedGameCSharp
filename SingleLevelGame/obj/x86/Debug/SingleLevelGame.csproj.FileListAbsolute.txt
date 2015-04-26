@@ -1,0 +1,21 @@
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\SingleLevelGame\SingleLevelGame\bin\Debug\SingleLevelGame.exe
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\SingleLevelGame\SingleLevelGame\bin\Debug\SingleLevelGame.pdb
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\SingleLevelGame\SingleLevelGame\obj\x86\Debug\SingleLevelGame.GameWindow.resources
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\SingleLevelGame\SingleLevelGame\obj\x86\Debug\SingleLevelGame.Properties.Resources.resources
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\SingleLevelGame\SingleLevelGame\obj\x86\Debug\SingleLevelGame.csproj.GenerateResource.Cache
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\SingleLevelGame\SingleLevelGame\obj\x86\Debug\SingleLevelGame.exe
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\SingleLevelGame\SingleLevelGame\obj\x86\Debug\SingleLevelGame.pdb
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicGame\SingleLevelGame\obj\x86\Debug\SingleLevelGame.exe
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicGame\SingleLevelGame\obj\x86\Debug\SingleLevelGame.pdb
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicGame\SingleLevelGame\bin\Debug\SingleLevelGame.exe
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicGame\SingleLevelGame\bin\Debug\SingleLevelGame.pdb
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicGame\SingleLevelGame\obj\x86\Debug\SingleLevelGame.GameWindow.resources
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicGame\SingleLevelGame\obj\x86\Debug\SingleLevelGame.Properties.Resources.resources
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicGame\SingleLevelGame\obj\x86\Debug\SingleLevelGame.csproj.GenerateResource.Cache
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicSLGame (add graphics)\SingleLevelGame\obj\x86\Debug\SingleLevelGame.exe
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicSLGame (add graphics)\SingleLevelGame\obj\x86\Debug\SingleLevelGame.pdb
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicSLGame (add graphics)\SingleLevelGame\bin\Debug\SingleLevelGame.exe
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicSLGame (add graphics)\SingleLevelGame\bin\Debug\SingleLevelGame.pdb
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicSLGame (add graphics)\SingleLevelGame\obj\x86\Debug\SingleLevelGame.GameWindow.resources
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicSLGame (add graphics)\SingleLevelGame\obj\x86\Debug\SingleLevelGame.Properties.Resources.resources
+C:\MyStuff\2014-2015\Unit 22 - Games Development\PracticePrograms\BasicSLGame (add graphics)\SingleLevelGame\obj\x86\Debug\SingleLevelGame.csproj.GenerateResource.Cache
